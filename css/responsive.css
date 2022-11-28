@@ -1,4 +1,9 @@
 @media (min-width: 700px) {
+
+  body {
+    padding: 8rem;
+  }
+
   main {
     max-width: 1020px;
 
