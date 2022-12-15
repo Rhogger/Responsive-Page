@@ -34,22 +34,26 @@ To access the site is simple, just click on the <a href = "https://responsive-pa
 
 ## Preview <a name = "preview"></a>
 
-<br>
+<div align="center">
 
-<h3 align="center">PC<h3>
+  <br>
 
-<img align="center" src="image/PC.png">
+### PC
 
-<hr><br><br>
+![Preview](image/PC.png)
 
-<h3 align="center">Mobile<h3>
+  <hr><br><br>
 
-<img align="center" src="image/Mobile.png">
+### Mobile
 
-<hr><br><br>
+![Preview](image/Mobile.png)
 
-<h3 align="center">Tablet<h3>
+  <hr><br><br>
 
-<img align="center" src="image/Tablet.png">
+### Tablet
 
-<hr>
+![Preview](image/Tablet.png)
+
+  <hr>
+
+</div>
