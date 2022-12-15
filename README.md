@@ -28,7 +28,7 @@ In this project, responsiveness was practiced. Also changed root's unit of measu
 
 ## Go to <a name = "go_to"></a>
 
-To access the site is simple, just click on the <a href = "https://responsive-page.vercel.app">link</a>
+To access the site is simple, just click on the <a href = "https://responsive-page.vercel.app" target="_blank">link</a>
 
 <br>
 
