@@ -38,18 +38,18 @@ To access the site is simple, just click on the <a href = "https://responsive-pa
 
 <h3 align="center">PC<h3>
 
-![Preview](image/PC.png)
+<img align="center" src="image/PC.png">
 
 <hr><br><br>
 
 <h3 align="center">Mobile<h3>
 
-![Preview](image/Mobile.png)
+<img align="center" src="image/Mobile.png">
 
 <hr><br><br>
 
 <h3 align="center">Tablet<h3>
 
-![Preview](image/Tablet.png)
+<img align="center" src="image/Tablet.png">
 
 <hr>
