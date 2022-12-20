@@ -40,19 +40,19 @@ To access the site is simple, just click on the <a href = "https://responsive-pa
 
 ### PC
 
-![Preview](image/PC.png)
+![Preview](assets/PC.png)
 
   <hr><br><br>
 
 ### Mobile
 
-![Preview](image/Mobile.png)
+![Preview](assets/Mobile.png)
 
   <hr><br><br>
 
 ### Tablet
 
-![Preview](image/Tablet.png)
+![Preview](assets/Tablet.png)
 
   <hr>
 
